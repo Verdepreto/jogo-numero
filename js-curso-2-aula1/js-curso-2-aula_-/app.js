@@ -1,4 +1,4 @@
-/* let listaDeNumerosSorteados = [];
+let listaDeNumerosSorteados = [];
 let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
@@ -134,7 +134,7 @@ console.log(linguagensDeProgramacao);
 
 //Crie uma lista com 3 nomes e exiba no console apenas o primeiro elemento.
 
-let timesFutebol = ['Vasco', 'Cruzeiro', 'Santos'];s
+let timesFutebol = ['Vasco', 'Cruzeiro', 'Santos'];
 console.log(timesFutebol[0]);
 
 //Crie uma lista com 3 nomes e exiba no console apenas o segundo elemento.
@@ -145,4 +145,4 @@ console.log(nomeFeio[1]);
 //Crie uma lista com 3 nomes e exiba no console apenas o último elemento.
 
 let listaNomeCarros = ['Onix', 'Prisma', 'Celta'];
-console.log(listaNomeCarros[2]); */ */
+console.log(listaNomeCarros[2]);
